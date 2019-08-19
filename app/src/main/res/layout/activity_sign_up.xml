@@ -88,7 +88,7 @@
             android:text="Female"
             android:textSize="20sp"
             android:layout_marginLeft="22sp"
-            android:layout_marginRight="22dp"
+            android:layout_marginRight="23dp"
             android:padding="5dp"/>
     </RadioGroup>
 
